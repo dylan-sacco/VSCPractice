@@ -6,3 +6,6 @@ p{
 body{
     background-color: red;
     }
+img{
+    border: 1 solid orange;
+}
